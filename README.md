@@ -1,16 +1,59 @@
-## Hi there 👋
+📄 README.md — copy this into your Thoyzvamsi/Thoyzvamsi repo
 
-<!--
-**Thoyzvamsi/Thoyzvamsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Vamsi 👋
 
-Here are some ideas to get you started:
+I build systems that read markets and think for themselves.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**3rd Year B.Tech | CSE AI & ML**
+Focused on algorithmic trading systems, ML pipelines for financial data, and AI agents.
+
+---
+
+## 🔧 What I Build
+
+- **Algorithmic Trading Systems** — EMA strategies, momentum models, live broker API integration (Angel One Smart API)
+- **ML Pipelines** — Feature engineering, signal generation, cost-aware backtesting
+- **AI Agents** — Autonomous workflow tools using LangGraph
+
+---
+
+## 🚀 Current Work
+
+- Improving [Stock-Momentum-Prediction](https://github.com/Thoyzvamsi/Stock-Momentum-Prediction) — multi-stock ML pipeline with backtesting engine
+- Exploring LangGraph for agent-based trading tools
+
+---
+
+## 🛠 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat)
+
+---
+
+## 📊 GitHub Stats
+
+![Vamsi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thoyzvamsi&show_icons=true&theme=dark&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thoyzvamsi&layout=compact&theme=dark&hide_border=true)
+
+---
+
+## 📌 Featured Projects
+
+| Project | Description |
+|---|---|
+| [Stock-Momentum-Prediction](https://github.com/Thoyzvamsi/Stock-Momentum-Prediction) | Multi-stock ML pipeline — feature engineering, momentum signals, cost-aware backtesting |
+| [Trading-Bot-EmaCrossOverStrategy](https://github.com/Thoyzvamsi/Trading-Bot-EmaCrossOverStrategy) | Live EMA crossover bot connected to Angel One Smart API |
+
+---
+
+## 🤝 Open To
+
+- Freelance: trading tools, data pipelines, AI agents
+- Internships in quant finance, ML engineering, or AI systems
+
+📩 **[Connect on LinkedIn](https://www.linkedin.com/in/thoyz-vamsi-rangineni-263580321/)**
