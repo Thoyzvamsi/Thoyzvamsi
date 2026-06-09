@@ -1,5 +1,3 @@
-📄 README.md — copy this into your Thoyzvamsi/Thoyzvamsi repo
-
 # Hi, I'm Vamsi 👋
 
 I build systems that read markets and think for themselves.
@@ -32,13 +30,6 @@ Focused on algorithmic trading systems, ML pipelines for financial data, and AI 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat)
 
----
-
-## 📊 GitHub Stats
-
-![Vamsi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thoyzvamsi&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thoyzvamsi&layout=compact&theme=dark&hide_border=true)
 
 ---
 
